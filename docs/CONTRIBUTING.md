@@ -1,0 +1,1 @@
+# File docs/CONTRIBUTING.md placeholder
